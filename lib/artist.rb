@@ -14,7 +14,7 @@ class Artist
   def initialize
     super
     @songs = []
-  #end
+  end
 
   def self.all
     @@artists
